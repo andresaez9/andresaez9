@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there <img src="https://github.com/andresaez9/andresaez9/blob/main/wave.gif" width='40px'>
 
 <!--
 **andresaez9/andresaez9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
