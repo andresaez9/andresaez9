@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### I'm currently studying web application development 👨🏼‍💻
 
 - I like to play sports 🏈🎾🏀🥊
-- I like team work 👨‍👨‍👧‍👦
+- I like teamwork 👨‍👨‍👧‍👦
 - I like reading 📖
 - I like listening to music, watching films and playing to videogames 🎶📽️🎮
 
