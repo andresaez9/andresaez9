@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andresaez9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresaez9&theme=2077)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andresaez9&theme=2077&exclude=typescript,javascript)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andresaez9&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andresaez9&theme=2077)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andresaez9&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andresaez9&theme=2077&utcOffset=utc-8)
