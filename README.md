@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andresaez9&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andresaez9&theme=2077)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andresaez9&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andresaez9&theme=2077&utcOffset=utc-8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andresaez9&theme=2077&utcOffset=8)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
