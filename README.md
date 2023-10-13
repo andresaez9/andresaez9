@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=andresaez9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andresaez9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andresaez9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andresaez9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresaez9&theme=2077)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andresaez9&theme=2077)
 
 ### ✍️ Random Dev Quote
