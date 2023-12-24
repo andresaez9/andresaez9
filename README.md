@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-### I'm currently studying web application development 👨🏼‍💻
+### I'm Web Developer 👨🏼‍💻
 
 - I like to play sports 🏈🎾🏀🥊
 - I like teamwork 👨‍👨‍👧‍👦
