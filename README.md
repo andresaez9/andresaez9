@@ -25,11 +25,11 @@ Although I also love coffee in the rain, contemplated through the window, that m
 
 <p align="center">
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vue.svg"></code> &nbsp;&nbsp;
-    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/pinia.svg"></code> &nbsp;&nbsp;
+    <code><img height="75" style="object-fit: contain;" src="https://github.com/andresaez9/andresaez9/blob/main/assets/pinia.svg"></code> &nbsp;&nbsp;
     <code><img height="70" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vuetify.png"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/nuxt.svg"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vite.svg"></code> &nbsp;&nbsp;
-    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg"></code> &nbsp;&nbsp;
+    <code><img height="75" style="object-fit: contain;" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/ts.svg"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg"></code> &nbsp;&nbsp;
 </p>
@@ -63,11 +63,11 @@ Although I also love coffee in the rain, contemplated through the window, that m
 
 ## 🌐 Contact:
 <a href="https://www.linkedin.com/in/andres-segura-saez">
-    <img alt="Linkedin" align="left" width="40px" src="https://github.com/andresaez9/andresaez9/blob/main/assets/linkedin.svg" />
+    <img alt="Linkedin" align="left" width="40px" target="_blank" src="https://github.com/andresaez9/andresaez9/blob/main/assets/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/AndresoDev">
-    <img alt="Twitter" align="left" width="40px" src="https://github.com/andresaez9/andresaez9/blob/main/assets/twitter.svg" />
+    <img alt="Twitter" align="left" width="40px" target="_blank" src="https://github.com/andresaez9/andresaez9/blob/main/assets/twitter.svg" />
 </a>
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AndresoDev)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-segura-s%C3%A1ez-75332a24a/) -->
