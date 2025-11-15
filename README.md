@@ -24,15 +24,16 @@ Although I also love coffee in the rain, contemplated through the window, that m
 ## 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vue.svg" height="75">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/pinia.svg" height="75" style="transform: scale(1.5);">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vuetify.png" height="75">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/nuxt.svg" height="75">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vite.svg" height="75">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg" height="75" style="transform: scale(1.5);">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/ts.svg" height="75">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg" height="75">
+    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vue.svg"></code> &nbsp;&nbsp;
+    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/pinia.png"></code> &nbsp;&nbsp;
+    <code><img height="70" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vuetify.png"></code> &nbsp;&nbsp;
+    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/nuxt.svg"></code> &nbsp;&nbsp;
+    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vite.svg"></code> &nbsp;&nbsp;
+    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg"></code> &nbsp;&nbsp;
+    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/ts.svg"></code> &nbsp;&nbsp;
+    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg"></code> &nbsp;&nbsp;
 </p>
+
 <!-- ## Front-end:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-6DA55F?style=for-the-badge&logo=vue.js&logoColor=darkgreen) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-0000FF.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
