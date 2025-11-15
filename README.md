@@ -24,16 +24,47 @@ Although I also love coffee in the rain, contemplated through the window, that m
 ## 💻 Tech Stack:
 
 <p align="center">
-    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vue.svg"></code> &nbsp;&nbsp;
-    <code><img height="75" style="object-fit: contain;" src="https://github.com/andresaez9/andresaez9/blob/main/assets/pinia.svg"></code> &nbsp;&nbsp;
-    <code><img height="70" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vuetify.png"></code> &nbsp;&nbsp;
-    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/nuxt.svg"></code> &nbsp;&nbsp;
-    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vite.svg"></code> &nbsp;&nbsp;
-    <code><img height="75" style="object-fit: contain;" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg"></code> &nbsp;&nbsp;
-    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/ts.svg"></code> &nbsp;&nbsp;
-    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg"></code> &nbsp;&nbsp;
+  <code>
+    <span style="display:inline-block; width:75px; height:75px;">
+      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vue.svg" style="width:100%; height:100%; object-fit:contain;">
+    </span>
+  </code> &nbsp;&nbsp;
+  <code>
+    <span style="display:inline-block; width:75px; height:75px;">
+      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/pinia.svg" style="width:100%; height:100%; object-fit:contain;">
+    </span>
+  </code> &nbsp;&nbsp;
+  <code>
+    <span style="display:inline-block; width:75px; height:75px;">
+      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vuetify.png" style="width:100%; height:100%; object-fit:contain;">
+    </span>
+  </code> &nbsp;&nbsp;
+  <code>
+    <span style="display:inline-block; width:75px; height:75px;">
+      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/nuxt.svg" style="width:100%; height:100%; object-fit:contain;">
+    </span>
+  </code> &nbsp;&nbsp;
+  <code>
+    <span style="display:inline-block; width:75px; height:75px;">
+      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vite.svg" style="width:100%; height:100%; object-fit:contain;">
+    </span>
+  </code> &nbsp;&nbsp;
+  <code>
+    <span style="display:inline-block; width:75px; height:75px;">
+      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg" style="width:100%; height:100%; object-fit:contain;">
+    </span>
+  </code> &nbsp;&nbsp;
+  <code>
+    <span style="display:inline-block; width:75px; height:75px;">
+      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/ts.svg" style="width:100%; height:100%; object-fit:contain;">
+    </span>
+  </code> &nbsp;&nbsp;
+  <code>
+    <span style="display:inline-block; width:75px; height:75px;">
+      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg" style="width:100%; height:100%; object-fit:contain;">
+    </span>
+  </code>
 </p>
-
 <!-- ## Front-end:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-6DA55F?style=for-the-badge&logo=vue.js&logoColor=darkgreen) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-0000FF.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
