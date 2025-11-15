@@ -28,6 +28,7 @@ Although I also love coffee in the rain, contemplated through the window, that m
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andresaez9&theme=2077&utcOffset=8)
 
 ## 🌐 Contact:
+
 <a href="https://www.linkedin.com/in/andres-segura-saez">
     <img alt="Linkedin" align="left" width="40px" target="_blank" src="https://github.com/andresaez9/andresaez9/blob/main/assets/linkedin.svg" />
 </a>
