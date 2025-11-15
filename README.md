@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+## 💫 About Me:
 
 Hi everyone! My name is Andres, I'm a frontend development enthusiast specialized in Vue. 
 
 Although I also love coffee in the rain, contemplated through the window, that moment when autumn and winter breathes and the cold seems to remind me that even the simplest things can feel infinite. ☕
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <p align="center">
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vue.png"></code> &nbsp;&nbsp;
@@ -31,7 +31,7 @@ Although I also love coffee in the rain, contemplated through the window, that m
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vite.svg"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/ts.svg"></code> &nbsp;&nbsp;
-    <code><img height="70" src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.png"></code> &nbsp;&nbsp;
+    <code><img height="70" src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/html.png"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/css.svg"></code> &nbsp;&nbsp;
 </p>
@@ -52,7 +52,7 @@ Although I also love coffee in the rain, contemplated through the window, that m
 ## Tools:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vite.js](https://img.shields.io/badge/vite-4682B4.svg?style=for-the-badge&logo=vite&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Gulp.js](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![UML](https://img.shields.io/badge/uml-000000.svg?style=for-the-badge&logo=uml&logoColor=white) -->
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=andresaez9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andresaez9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andresaez9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
