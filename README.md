@@ -24,14 +24,14 @@ Although I also love coffee in the rain, contemplated through the window, that m
 ## 💻 Tech Stack:
 
 <p align="center">
-    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vue.png"></code> &nbsp;&nbsp;
+    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vue.svg"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/pinia.svg"></code> &nbsp;&nbsp;
     <code><img height="70" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vuetify.png"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/nuxt.svg"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vite.svg"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/ts.svg"></code> &nbsp;&nbsp;
-    <code><img height="70" src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg"></code> &nbsp;&nbsp;
+    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg"></code> &nbsp;&nbsp;
 </p>
 
 <!-- ## Front-end:
