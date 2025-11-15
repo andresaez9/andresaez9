@@ -24,46 +24,14 @@ Although I also love coffee in the rain, contemplated through the window, that m
 ## 💻 Tech Stack:
 
 <p align="center">
-  <code>
-    <span style="display:inline-block; height:20px;">
-      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vue.svg" style="width:100%; height:100%; object-fit:contain;">
-    </span>
-  </code> &nbsp;&nbsp;
-  <code>
-    <span style="display:inline-block; height:20px;">
-      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/pinia.svg" style="width:100%; height:100%; object-fit:contain;">
-    </span>
-  </code> &nbsp;&nbsp;
-  <code>
-    <span style="display:inline-block; height:20px;">
-      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vuetify.png" style="width:100%; height:100%; object-fit:contain;">
-    </span>
-  </code> &nbsp;&nbsp;
-  <code>
-    <span style="display:inline-block; height:20px;">
-      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/nuxt.svg" style="width:100%; height:100%; object-fit:contain;">
-    </span>
-  </code> &nbsp;&nbsp;
-  <code>
-    <span style="display:inline-block; height:20px;">
-      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vite.svg" style="width:100%; height:100%; object-fit:contain;">
-    </span>
-  </code> &nbsp;&nbsp;
-  <code>
-    <span style="display:inline-block; height:20px;">
-      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg" style="width:100%; height:100%; object-fit:contain;">
-    </span>
-  </code> &nbsp;&nbsp;
-  <code>
-    <span style="display:inline-block; height:20px;">
-      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/ts.svg" style="width:100%; height:100%; object-fit:contain;">
-    </span>
-  </code> &nbsp;&nbsp;
-  <code>
-    <span style="display:inline-block; height:20px;">
-      <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg" style="width:100%; height:100%; object-fit:contain;">
-    </span>
-  </code>
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vue.svg" height="20">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/pinia.svg" height="20">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vuetify.png" height="20">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/nuxt.svg" height="20">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vite.svg" height="20">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg" height="20">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/ts.svg" height="20">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg" height="20">
 </p>
 <!-- ## Front-end:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-6DA55F?style=for-the-badge&logo=vue.js&logoColor=darkgreen) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
