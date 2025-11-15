@@ -25,42 +25,42 @@ Although I also love coffee in the rain, contemplated through the window, that m
 
 <p align="center">
   <code>
-    <span style="display:inline-block; height:75px;">
+    <span style="display:inline-block; height:50px;">
       <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vue.svg" style="width:100%; height:100%; object-fit:contain;">
     </span>
   </code> &nbsp;&nbsp;
   <code>
-    <span style="display:inline-block; height:75px;">
+    <span style="display:inline-block; height:50px;">
       <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/pinia.svg" style="width:100%; height:100%; object-fit:contain;">
     </span>
   </code> &nbsp;&nbsp;
   <code>
-    <span style="display:inline-block; height:75px;">
+    <span style="display:inline-block; height:50px;">
       <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vuetify.png" style="width:100%; height:100%; object-fit:contain;">
     </span>
   </code> &nbsp;&nbsp;
   <code>
-    <span style="display:inline-block; height:75px;">
+    <span style="display:inline-block; height:50px;">
       <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/nuxt.svg" style="width:100%; height:100%; object-fit:contain;">
     </span>
   </code> &nbsp;&nbsp;
   <code>
-    <span style="display:inline-block; height:75px;">
+    <span style="display:inline-block; height:50px;">
       <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vite.svg" style="width:100%; height:100%; object-fit:contain;">
     </span>
   </code> &nbsp;&nbsp;
   <code>
-    <span style="display:inline-block; height:75px;">
+    <span style="display:inline-block; height:50px;">
       <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg" style="width:100%; height:100%; object-fit:contain;">
     </span>
   </code> &nbsp;&nbsp;
   <code>
-    <span style="display:inline-block; height:75px;">
+    <span style="display:inline-block; height:50px;">
       <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/ts.svg" style="width:100%; height:100%; object-fit:contain;">
     </span>
   </code> &nbsp;&nbsp;
   <code>
-    <span style="display:inline-block; height:75px;">
+    <span style="display:inline-block; height:50px;">
       <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg" style="width:100%; height:100%; object-fit:contain;">
     </span>
   </code>
