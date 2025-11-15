@@ -29,7 +29,7 @@ Although I also love coffee in the rain, contemplated through the window, that m
     <code><img height="70" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vuetify.png"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/nuxt.svg"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vite.svg"></code> &nbsp;&nbsp;
-    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vites.svg"></code> &nbsp;&nbsp;
+    <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/ts.svg"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg"></code> &nbsp;&nbsp;
 </p>
