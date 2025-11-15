@@ -24,14 +24,14 @@ Although I also love coffee in the rain, contemplated through the window, that m
 ## 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vue.svg" height="20">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/pinia.svg" height="20">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vuetify.png" height="20">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/nuxt.svg" height="20">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vite.svg" height="20">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg" height="20">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/ts.svg" height="20">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg" height="20">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vue.svg" height="75">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/pinia.svg" height="75">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vuetify.png" height="75">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/nuxt.svg" height="75">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vite.svg" height="75">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg" height="75">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/ts.svg" height="75">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg" height="75">
 </p>
 <!-- ## Front-end:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-6DA55F?style=for-the-badge&logo=vue.js&logoColor=darkgreen) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
