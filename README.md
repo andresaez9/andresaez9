@@ -25,11 +25,11 @@ Although I also love coffee in the rain, contemplated through the window, that m
 
 <p align="center">
   <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vue.svg" height="75">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/pinia.svg" height="75">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/pinia.svg" height="75" style="transform: scale(1.5);">
   <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vuetify.png" height="75">
   <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/nuxt.svg" height="75">
   <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vite.svg" height="75">
-  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg" height="75">
+  <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/vitest.svg" height="75" style="transform: scale(1.5);">
   <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/ts.svg" height="75">
   <img src="https://github.com/andresaez9/andresaez9/blob/main/assets/js.svg" height="75">
 </p>
